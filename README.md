@@ -1,7 +1,7 @@
 # Modules Containers and Testing
 
 **Author**: Natalija Germek Clarke
-**Version**: 1.0.0
+**Version**: 1.0.1
 
 ## Overview
 My problem domain is that I want to create application with a function using TDD practices that will return the nth value in the fibonacci series.
@@ -17,3 +17,4 @@ My problem domain is that I want to create application with a function using TDD
 
 ## Change Log
 10-05-2022 8:58pm - Added tests to test_series.py for fibonacci function. 
+10-06-2022 10:14pm - Added requirements.txt file
